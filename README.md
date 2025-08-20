@@ -14,7 +14,7 @@
 
 ## 📂 My Projects  
 ---
-###[QR-code-and-Barcode-Reader](https://github.com/Martin-Chauke/QR-code-and-Barcode-Reader)
+### [QR-code-and-Barcode-Reader](https://github.com/Martin-Chauke/QR-code-and-Barcode-Reader)
 🐍 Designed for accuracy and precision QR and barcode detection using python. 
 👩‍🏫Built with **Google Colab and Juypter Notebooks**
 <\\> Webcam and scanning image decoding option.
