@@ -53,8 +53,8 @@ My first web development project using **Django**.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![MySQL](https://www.mysql.com/common/logos/logo-mysql-170x115.png){:width="40"}
-![Pandas](https://pandas.pydata.org/static/img/pandas.svg){:width='40'}
+![MySQL](https://www.mysql.com/common/logos/logo-mysql-170x115.png/width="40")
+![Pandas](https://pandas.pydata.org/static/img/pandas.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
