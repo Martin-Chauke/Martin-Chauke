@@ -14,6 +14,15 @@
 
 ## 📂 My Projects  
 ---
+### [Student Placement Predictor WebApp](https://github.com/Martin-Chauke/Student-Placement-Predictor)
+-Currently working on this project.....
+-This web application predicts whether a student is likely to be placed based on their CGPA, IQ level, and Profile Score.
+
+-The model is pre-trained (model.pkl) and integrated into this Flask app for real-time predictions. 
+-The predictions are then used to make data-informed decisions for career planning and support and allocate placement resources more effectively.
+
+Built with Flask, Bootstrap, and Machine Learning.
+---
 ### [QR-code-and-Barcode-Reader](https://github.com/Martin-Chauke/QR-code-and-Barcode-Reader)
 - 🐍 Designed for accuracy and precision QR and barcode detection using python. 
 - 👩‍🏫Built with **Google Colab and Juypter Notebooks**
