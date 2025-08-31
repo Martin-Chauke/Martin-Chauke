@@ -1,4 +1,4 @@
-# Martin Chauke  
+ # 👋🏻 I'm Martin Chauke  
 
 🎓 **Computer Science Student** | 🐍 **Python Developer** | 📊 Passionate About **Data Science & Analytics** | 🤖 Aspiring **AI/ML Professional** | 🔍 Data-Driven Problem Solver  
 
