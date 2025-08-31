@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Martin Chauke  
+# Martin Chauke  
 
 🎓 **Computer Science Student** | 🐍 **Python Developer** | 📊 Passionate About **Data Science & Analytics** | 🤖 Aspiring **AI/ML Professional** | 🔍 Data-Driven Problem Solver  
 
 ---
 
 ## 🌐 About Me  
-- 🔭 Currently building projects in **Python, Django, and C**  
+- 🔭 Currently building projects in **Python,Flask, Django, and C**  
 - 📊 Interested in **AI/ML, Data Science, and Analytics**  
 - 🌱 Learning **advanced machine learning and web frameworks**  
 - 🤝 Open to collaboration on **Data Science, AI/ML, and Python projects**  
