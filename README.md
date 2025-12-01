@@ -1,6 +1,6 @@
  # Hie, 👋🏻 I'm Martin Chauke  
 
-🎓 **Computer Science Student** | 🐍 **Python,Java Developer** | 📊 Passionate About **Data Science & Analytics** | 🤖 Aspiring **AI/ML Professional** | 🔍 Data-Driven Problem Solver  
+ **Computer Science Student** | **Python,Java Developer** | 📊 Passionate About **Data Science & Analytics** | 🤖 Aspiring **AI/ML Professional** | 🔍 Data-Driven Problem Solver  
 
 ---
 
