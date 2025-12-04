@@ -25,11 +25,11 @@ Currently working on this project.....
 Built with Flask, Bootstrap, and Machine Learning.
 ---
 ### [QR-code-and-Barcode-Reader](https://github.com/Martin-Chauke/QR-code-and-Barcode-Reader)
-- 🐍 Designed for accuracy and precision QR and barcode detection using python. 
-- 👩‍🏫Built with **Google Colab and Juypter Notebooks**
-- 🔎📸 Webcam and scanning image decoding option.
+- Designed for accuracy and precision QR and barcode detection using python. 
+- Built with **Google Colab and Juypter Notebooks**
+- 📸 Webcam and scanning image decoding option.
 
-### 🚀 [Send-Emails](https://github.com/Martin-Chauke/Send-Emails)
+###  [Send-Emails](https://github.com/Martin-Chauke/Send-Emails)
 A Python project to send **personalized emails** to multiple recipients.  
 - 📧 Uses **SMTP** for secure transmission  
 - 📝 Formats emails with **MIME & HTML**  
@@ -46,15 +46,15 @@ A **University project in C** to help professors manage subject revision.
 
 ### 📚 [Library-Management-System](https://github.com/Martin-Chauke/Library-Management-System)  
 A **Python-based system** for managing library operations.  
-- 📕 Manage books & members  
-- 🔄 Track borrowing/returning efficiently  
+-  Manage books & members  
+-  Track borrowing/returning efficiently  
 
 ---
 
 ### 🌐 [MyFirstDjango](https://github.com/Martin-Chauke/MyFirstDjango)  
 My first web development project using **Django**.  
-- 🖥️ Demonstrates **routing, templates, and app structure**  
-- 📌 Built as a learning project in **web frameworks**  
+-  Demonstrates **routing, templates, and app structure**  
+-  Built as a learning project in **web frameworks**  
 
 ---
 
@@ -63,7 +63,7 @@ My first web development project using **Django**.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-
+ #Java
 ![MySQL](https://www.mysql.com/common/logos/logo-mysql-170x115.png)
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)  
