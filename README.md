@@ -4,10 +4,10 @@
 
 ---
 
-## 🌐 About Me  
-- 🔭 Currently building projects in **Python,Flask, Django, and C**  
-- 📊 Interested in **AI/ML, Data Science, and Analytics**  
-- 🌱 Learning **advanced machine learning and web frameworks**  
+##  About Me  
+-  Currently building projects in **Python,Flask, Django, and C**  
+-  Interested in **AI/ML, Data Science, and Analytics**  
+-  Learning **advanced machine learning and web frameworks**  
 - 🤝 Open to collaboration on **Data Science, AI/ML, and Python projects**  
 
 ---
@@ -31,16 +31,16 @@ Built with Flask, Bootstrap, and Machine Learning.
 
 ###  [Send-Emails](https://github.com/Martin-Chauke/Send-Emails)
 A Python project to send **personalized emails** to multiple recipients.  
-- 📧 Uses **SMTP** for secure transmission  
-- 📝 Formats emails with **MIME & HTML**  
-- 🐍 Built with **Jupyter Notebook**  
+-  Uses **SMTP** for secure transmission  
+-  Formats emails with **MIME & HTML**  
+-  Built with **Jupyter Notebook**  
 
 ---
 
 ### 📘 [Revision-Management-System](https://github.com/Martin-Chauke/Revision-Management-System)  
 A **University project in C** to help professors manage subject revision.  
-- 📅 Plan revisions in advance  
-- 👩‍🏫 Manage & track student learning progress  
+-  Plan revisions in advance  
+-  Manage & track student learning progress  
 
 ---
 
