@@ -4,7 +4,7 @@
 ---
 
 ##  About Me  
--  Currently building  using **Python,Flask, FastAPI, CSS, JavaScript **  
+-  Currently building  using **Python**,**Flask**, **FastAPI**, **CSS** and **JavaScript**  
 -  Building projects in **AI/ML, Data Science, and Analytics**  
 -  Learning **advanced machine learning and web frameworks**  
 - 🤝 Open to collaboration on **Data Science, AI/ML, and Python projects**  
