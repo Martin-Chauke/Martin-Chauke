@@ -5,7 +5,7 @@
 
 ##  About Me  
 -  Currently building projects in **Python,Flask, Django, and C**  
--  Interested in **AI/ML, Data Science, and Analytics**  
+-  Building projects in **AI/ML, Data Science, and Analytics**  
 -  Learning **advanced machine learning and web frameworks**  
 - 🤝 Open to collaboration on **Data Science, AI/ML, and Python projects**  
 
@@ -17,7 +17,8 @@
 Currently working on this project.....
 - This web application predicts whether a student is likely to be placed based on their CGPA, IQ level, and Profile Score.
 
-- The model is pre-trained (model.pkl) and integrated into this Flask app for real-time predictions. 
+- The model is pre-trained (model.pkl) and integrated into this Flask app for real-time predictions.
+- Machine Learning Model(model.pkl)
 
 - The predictions are then used to make data-informed decisions for career planning and support and allocate placement resources more effectively.
 
