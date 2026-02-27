@@ -13,8 +13,10 @@
 
 ## 📂 My Projects  
 ---
+### [MatXSense- A Digital twin platform ](https://github.com/rsebany/matXSense)
+- Material degradation monitoring using **virtual IoT sensors** and **machine learning**. Predict health, remaining useful life (RUL), and degradation risk for     steel, concrete, polymers, and aluminum in different environments—with a **bridge digital twin** and optional sensor-driven inference.
+
 ### [Student Placement Predictor WebApp](https://github.com/Martin-Chauke/Student-Placement-Predictor)
-Currently working on this project.....
 - This web application predicts whether a student is likely to be placed based on their CGPA, IQ level, and Profile Score.
 
 - The model is pre-trained (model.pkl) and integrated into this Flask app for real-time predictions.
