@@ -1,5 +1,5 @@
 
- **Computer Science Student** | **Python,Java Developer** | Passionate About **Data Science & Analytics** | Aspiring **AI/ML Professional** | Data-Driven Problem Solver  
+ **Computer Science Major** | **Python,Java Developer** | **AI & Data Science Focused** 
 
 ---
 
@@ -92,4 +92,4 @@ JAVA
 
 ---
 
-⭐️ *If you like my work, consider giving my repositories a star!*  
+
